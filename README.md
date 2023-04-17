@@ -1,4 +1,4 @@
-# Colorization_Video
+# Colorization Video
 This python program is based on other projects I have created to colourize a black and white video
 
 * Please ensure the following package is installed:
